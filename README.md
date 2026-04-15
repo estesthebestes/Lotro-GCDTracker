@@ -1,4 +1,4 @@
-# SkillTimer
+# GCD Timer originally made by meobius92
 
 A lightweight [LOTRO](https://www.lotro.com/) plugin that prints skill cooldown timers to the chat window whenever one of your skills goes on cooldown.
 
