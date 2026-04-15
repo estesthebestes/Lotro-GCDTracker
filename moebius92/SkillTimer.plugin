@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Plugin>
+	<Information>
+		<Name>SkillTimer</Name>
+		<Author>moebius92</Author>
+		<Version>0.1</Version>
+	</Information>
+	<Package>moebius92.SkillTimer.Main</Package>
+	<Configuration Apartment="SkillTimer" />
+</Plugin>
