@@ -3,7 +3,7 @@
 	<Information>
 		<Name>SkillTimer</Name>
 		<Author>moebius92</Author>
-		<Version>0.1</Version>
+		<Version>1.0</Version>
 	</Information>
 	<Package>moebius92.SkillTimer.Main</Package>
 	<Configuration Apartment="SkillTimer" />
